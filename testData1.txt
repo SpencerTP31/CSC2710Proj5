@@ -1,0 +1,6 @@
+1
+4 6
+King, High Point, 4
+King, Raleigh, 8
+Boone, Archdale, 14
+Boone, Winston-Salem, 9
